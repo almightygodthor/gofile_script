@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BOT_TOKEN="8093034722:AAET1DEX8-TkMnUG3KTtjKWj0FUhzHxryjU"
+BOT_TOKEN="8093034722:AAHNxvf15lI0TXtvY0UYToT6zsbUulwCybM"
 CHAT_ID="-1002534976589"
 
 # ---------------- Telegram ----------------
